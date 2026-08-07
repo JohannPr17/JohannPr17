@@ -4,6 +4,10 @@ I'm a third-year Computational Data Sciences student at Penn State with a minor 
 
 ### Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,r,js,ts,swift,html,css&perline=8)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,selenium,flask,react,fastapi,vscode,latex&perline=8)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,docker,firebase,sklearn,tensorflow,opencv&perline=8)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,r,js,ts,swift,html,css&perline=8" /></a>
+  <br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,selenium,flask,react,fastapi,vscode,latex&perline=8" /></a>
+  <br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,docker,firebase,sklearn,tensorflow,opencv&perline=8" /></a>
+</p>
