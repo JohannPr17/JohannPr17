@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a Computational Data Sciences student at Penn State (minor in Mathematics), currently juggling three internships — building AI-driven data pipelines at Life is Good, working with financial data in Snowflake at Liquidity AI Capital Corp, and doing automated QA at RIA Advisory. I'm into AI/ML, data engineering, and iOS development, and I like shipping full projects outside of class: an AI-powered grooming analysis app (Visara) and a search engine built from scratch with a custom BM25 ranking pipeline. In my free time I play chess, work on body recomposition, and keep finding new things to automate.
+I'm a third-year Computational Data Sciences student at Penn State with a minor in Mathematics. I have internship experience in data engineering, data science, and QA automation at companies including Life is Good, Liquidity AI Capital Corp, and RIA Advisory. I have a strong interest in AI/ML, data engineering, and software development, and I have experience across a wide range of languages and frameworks, including Python, Java, SQL, R, JavaScript, TypeScript, Swift, and HTML/CSS. My skills extend to various tools and technologies, such as Git, Selenium, Flask, React, FastAPI, Docker, Firebase, TensorFlow, Scikit-learn, and OpenCV. In my free time, I enjoy playing chess and working on side projects.
 
 ### Skills & Technologies
 
